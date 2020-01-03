@@ -1,0 +1,1 @@
+(np.pi-VALUE )/np.pi =99.99%
